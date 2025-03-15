@@ -26,4 +26,88 @@
     "group": "Other",
     "download_url": "https://github.com/iiDk-the-actual/FortniteEmoteWheel/releases/download/1.1.5/FortniteEmoteWheel.dll"
   },
+
+  
+  {
+    "name": "Better Nametags",
+    "author": "Ty",
+    "version": "1.0.0",
+    "git_path": "tyy-8/CheaterModManager",
+    "group": "Other",
+    "download_url": "https://github.com/tyy-8/CheaterModManager/blob/main/CMM%20Mods/BetterNameTags.dll"
+  },
+  
+  {
+    "name": "Cosmetx",
+    "author": "Unkown",
+    "version": "1.0.0",
+    "git_path": "tyy-8/CheaterModManager",
+    "group": "Cosmetic / Fun",
+    "download_url": "https://github.com/tyy-8/CheaterModManager/blob/main/CMM%20Mods/Cosmetx.dll"
+  },
+  
+  {
+    "name": "Computer Interface",
+    "author": "Multiple",
+    "version": "1.0.0",
+    "git_path": "tyy-8/CheaterModManager",
+    "group": "Other",
+    "download_url": "https://github.com/tyy-8/CheaterModManager/blob/main/CMM%20Mods/ComputerInterface%20(1).zip"
+  },
+
+  
+  {
+    "name": "Gorilla Shirts",
+    "author": "Dev9998",
+    "version": "1.0.0",
+    "git_path": "tyy-8/CheaterModManager",
+    "group": "Cosmetic / Fun",
+    "download_url": "https://github.com/tyy-8/CheaterModManager/blob/main/CMM%20Mods/Gorilla%20Shirts.zip"
+  },
+  
+  {
+    "name": "Mono Sandbox",
+    "author": "Mono",
+    "version": "1.0.0",
+    "git_path": "tyy-8/CheaterModManager",
+    "group": "Other",
+    "download_url": "https://github.com/tyy-8/CheaterModManager/raw/refs/heads/main/CMM%20Mods/MonoSandbox.dll"
+  },
+  
+  {
+    "name": "Nicknames",
+    "author": "Ty",
+    "version": "1.0.0",
+    "git_path": "tyy-8/CheaterModManager",
+    "group": "Cosmetic / Fun",
+    "download_url": "https://github.com/tyy-8/CheaterModManager/blob/main/CMM%20Mods/Nicknames.dll"
+  },
+  
+  {
+    "name": "Optimizer X",
+    "author": "Unkown",
+    "version": "1.0.0",
+    "git_path": "tyy-8/CheaterModManager",
+    "group": "Other",
+    "download_url": "https://github.com/tyy-8/CheaterModManager/blob/main/CMM%20Mods/OptimizerX.dll"
+  },
+
+  
+  {
+    "name": "Ty's Banned Servers",
+    "author": "Ty",
+    "version": "1.0.0",
+    "git_path": "tyy-8/CheaterModManager",
+    "group": "Other",
+    "download_url": "https://github.com/tyy-8/CheaterModManager/blob/main/CMM%20Mods/TyServers.dll"
+  },
+  
+  {
+    "name": "Walk Simulator",
+    "author": "Kyle The Scientist",
+    "version": "1.0.0",
+    "git_path": "tyy-8/CheaterModManager",
+    "group": "Other",
+    "download_url": "https://github.com/tyy-8/CheaterModManager/blob/main/CMM%20Mods/WalkSimFix.dll"
+  },
 ]
