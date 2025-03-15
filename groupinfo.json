@@ -1,22 +1,10 @@
 [
   {
-    "name" : "Core",
+    "name" : "GUI",
     "rank" : 0
   },
   {
-    "name" : "Libraries",
+    "name" : "Menu",
     "rank" : 1
   },
-  {
-    "name" : "Tweaks / Tools",
-    "rank" : 2
-  },
-  {
-    "name" : "Gameplay",
-    "rank" : 3
-  },
-  {
-    "name" : "Cosmetic",
-    "rank" : 4
-  }
 ]
