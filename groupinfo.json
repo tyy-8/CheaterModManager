@@ -3,14 +3,20 @@
     "name" : "Menu",
     "rank" : 0
   },
+
   
   {
-    "name" : "GUI",
+    "name" : "Cosmetic / Fun",
     "rank" : 1
   },
   
   {
-    "name" : "Other",
+    "name" : "GUI",
     "rank" : 2
+  },
+  
+  {
+    "name" : "Other",
+    "rank" : 3
   },
 ]
