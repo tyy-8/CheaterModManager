@@ -5,6 +5,25 @@
     "version": "1.1.1",
     "git_path": "tyy-8/PhantomMenu",
     "group": "Menu",
-    "download_url": "https://github.com/tyy-8/PhantomMenu/releases/download/Latest/Phantom.dll"
+    "download_url": "https://github.com/tyy-8/PhantomMenu/releases/download/1.1.1/Phantom.dll"
+  },
+
+  
+  {
+    "name": "II's Stupid Menu",
+    "author": "IIDK",
+    "version": "5.6.1",
+    "git_path": "iiDk-the-actual/iis.Stupid.Menu",
+    "group": "Menu",
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/5.6.1/iis_Stupid_Menu.dll"
+  },
+  
+  {
+    "name": "Fortnite Emote Wheel",
+    "author": "IIDK",
+    "version": "1.1.5",
+    "git_path": "iiDk-the-actual/FortniteEmoteWheel",
+    "group": "Other",
+    "download_url": "https://github.com/iiDk-the-actual/FortniteEmoteWheel/releases/download/1.1.5/FortniteEmoteWheel.dll"
   },
 ]
