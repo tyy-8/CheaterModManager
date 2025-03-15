@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Core",
+    "rank" : 0
+  },
+  {
+    "name" : "Libraries",
+    "rank" : 1
+  },
+  {
+    "name" : "Tweaks / Tools",
+    "rank" : 2
+  },
+  {
+    "name" : "Gameplay",
+    "rank" : 3
+  },
+  {
+    "name" : "Cosmetic",
+    "rank" : 4
+  }
+]
